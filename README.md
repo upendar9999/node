@@ -765,7 +765,7 @@ responding to new issues.
 
 ### Release keys
 
-Primary GPG keys for Node.js Releasers (some Releasers sign with subkeys):
+Primary GPG Keys for Node.js Releasers (some Releasers sign with subkeys):
 
 * **Antoine du Hamel** <<duhamelantoine1995@gmail.com>>
   `C0D6248439F1D5604AAFFB4021D900FFDB233756`
